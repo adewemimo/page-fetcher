@@ -1,0 +1,24 @@
+{
+  "name": "page-fetcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fetcher.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adewemimo/page-fetcher.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adewemimo/page-fetcher/issues"
+  },
+  "homepage": "https://github.com/adewemimo/page-fetcher#readme",
+  "dependencies": {
+    "node-fetch": "^3.1.0"
+  }
+}
